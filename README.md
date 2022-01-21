@@ -41,5 +41,5 @@ Otherwise,
 3. Make the installer executable: `chmod +x install_perceptilabs_enterprise`
 4. Run the installation script:
 ```
-sudo ./install_perceptilabs_enterprise --airgapped images.tar
+./install_perceptilabs_enterprise --airgapped images.tar
 ```
